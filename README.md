@@ -1,2 +1,2 @@
 # Story2_Demo
-Learning Branching and Learning
+Learning Branching and Merging
